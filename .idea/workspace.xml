@@ -46,7 +46,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kingv/Desktop/FSD Project/lakeSide-hotel-demo-server",
+    "last_opened_file_path": "C:/Users/kingv/Desktop/FSD Project/Backend1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -86,6 +86,7 @@
       <workItem from="1710410831332" duration="75000" />
       <workItem from="1710424066850" duration="2426000" />
       <workItem from="1710427961131" duration="29000" />
+      <workItem from="1710428033248" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
